@@ -1,38 +1,28 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=280&section=header&text=Ange%20Carelle&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=CS%20Student%20%7C%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=65&descColor=8888ff&animation=fadeIn)
+<img src="https://i.pinimg.com/736x/6e/5a/be/6e5abe6a8acd2214e7320c8c7d2b24c8.jpg" width="100%" alt="banner"/>
 
+<h1>Hi 👋, I'm Ange Carelle</h1>
+<h3>A passionate CS Student & Developer from Burkina Faso 🇧🇫</h3>
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Blackdry13579&icon=4&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
-## `</>` About Me
+<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
 
-<img align="right" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif"/>
-
-```yaml
-name:       "NOMBRE Ange Carelle"
-alias:      "black_dry"
-github:     "Blackdry13579"
-location:   "Ouagadougou, Burkina Faso 🇧🇫"
-role:       "CS Student & Aspiring Developer"
-
-stack:      ["HTML", "CSS", "JavaScript", "Node.js", "C"]
-learning:   ["Cybersecurity", "APIs", "React", "Python"]
-interests:  ["Security", "Web Dev", "Open Source"]
-
-mission: |
-  "Build practical things, improve every day,
-   and keep pushing no matter what."
-
-coding_philosophy: |
-  "Keep it clean, keep it useful, keep it human."
-```
+- 🔭 I'm currently working on **small web projects**
+- 🌱 I'm currently learning **Node.js, APIs & Cybersecurity**
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🛡️ Curious about **Cybersecurity**
+- 🚀 Building projects to improve every day
+- 📫 Reach me: **nombreaange@gmail.com**
 
 <br>
 
-📫 **Connect with me:**
+**Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ange-nombre-5846a4335)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nombreaange@gmail.com)
@@ -43,23 +33,11 @@ coding_philosophy: |
 
 <div align="center">
 
-## 🛠️ Toolkit
-
-### Core Languages
+## 🛠️ Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=c,html,css,js,java,python&theme=dark" />
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,vuejs,flutter,nodejs,express&theme=dark" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,github,git&theme=dark" />
-
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vuejs,nodejs,flutter,mongodb,postgres,firebase,figma,canva,git,github&theme=dark" />
 
 </div>
 
@@ -67,7 +45,7 @@ coding_philosophy: |
 
 <div align="center">
 
-## 📊 Coding Analytics
+## 📊 GitHub Stats
 
 <br>
 
@@ -79,7 +57,7 @@ coding_philosophy: |
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackdry13579&theme=aura_dark&hide_border=true&layout=donut)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackdry13579&theme=aura_dark&hide_border=true&layout=compact)
 
 <br>
 
@@ -90,17 +68,6 @@ coding_philosophy: |
 ---
 
 <div align="center">
-
-## 🤝 Connect and Collaborate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ange-nombre-5846a4335)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nombreaange@gmail.com)
-
-<br>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Blackdry13579&icon=4&color=6)](https://visitcount.itsvg.in)
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=120&section=footer)
 
