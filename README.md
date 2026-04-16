@@ -1,35 +1,15 @@
 <div align="center">
 
-<h1 align="center"> Hi there, I'm Ange Carelle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> </h1>
+<!-- Modern Header Banner -->
+<img src="https://i.pinimg.com/1200x/20/f6/20/20f620f7e65a445102a3d63a76cb1afc.jpg" width="900" alt="Profile Banner" />
 
-<!-- Banner Style Ruyynn -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=Ange%20Carelle&fontSize=80&fontColor=22d3ee&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20|%20CYBERSECURITY&descSize=20&descAlignY=65&descColor=a9fef7" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="35"/>
-  <samp>CS Student & Professional Developer based in <b>Burkina Faso</b> 🇧🇫.</samp>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="35"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=22d3ee&center=true&vCenter=true&width=500&lines=Follow+me+on+GitHub+^_^;Always+learning;Always+coding" alt="Typing SVG"/>
-</p>
-
-<div align="center">
-  <a href="https://github.com/Blackdry13579">
-    <img src="https://komarev.com/ghpvc/?username=Blackdry13579&label=PROFILE%20VIEWS&color=22d3ee&style=flat-square" alt="Views"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-0d1117?style=flat-square&labelColor=22d3ee" alt="Role"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSEC-0d1117?style=flat-square&labelColor=22d3ee" alt="Focus"/>
 </div>
 
 <p align="center">
 <font color="blue">__________________________________________________________________________________________________</font>
 </p>
+
+<div align="center">
 
 ## [ WHOAMI ]
 
@@ -53,7 +33,7 @@ STATUS     : ONLINE
 ┌──(blackdry13579@kali)-[~]
 └─$ cat skills.txt
 
-LANGUAGES  : C, Java, JS, Python, Flutter
+LANGUAGES  : Dart, Java, JavaScript, Python, C, Flutter
 TOOLS      : Kali, VS Code, Git, Postman
 FOCUS      : Web, Mobile, Cybersec
 NOW        : [ Learning AI ] [ Building Apps ]
@@ -63,51 +43,54 @@ OPEN FOR   : Collab, Projects, Learning
   </tr>
 </table>
 
+</div>
+
 <p align="center">
 <font color="blue">__________________________________________________________________________________________________</font>
 </p>
 
-## [ TECH STACK ]
+---
+
 
 <div align="center">
 
-### ◆ Languages & Dev Tools ◆
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,py,react,vue,nodejs,flutter,html,css,git,vscode,postman,tailwind)](https://skillicons.dev)
+<h3 align="center"> 📚 Languages & tools I have placed My Hands On </h3>
 
-### ◆ Operating Systems ◆
-[![OS](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,py,dart,react,vue,nodejs,flutter,html,css,git,vscode,postman,tailwind,mongodb,firebase,kali,mysql,postgres,aws)](https://skillicons.dev)
 
-### ◆ Databases & Cloud ◆
-[![DB](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,aws)](https://skillicons.dev)
+<br/>
 
-</div>
-
-<p align="center">
-<font color="blue">__________________________________________________________________________________________________</font>
-</p>
-
-## [ GITHUB STATS ]
+<h3 align="center"> 📊 GitHub Stats & Grind </h3>
 
 <div align="center">
-
-![Trophys](https://github-profile-trophy.vercel.app/?username=Blackdry13579&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=Blackdry13579&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-  <img width="480" src="https://streak-stats.demolab.com?user=Blackdry13579&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blackdry13579&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Blackdry13579&background=0d1117&fire=22d3ee&ring=22d3ee&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackdry13579&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&hide_border=true" width="100%" />
 </div>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackdry13579&layout=compact&theme=radical&hide_border=true" alt="Langs" />
+
+<h3 align="center"> 🏮 Tech Stack View </h3>
+
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 <p align="center">
 <font color="blue">__________________________________________________________________________________________________</font>
 </p>
+
+<div align="center">
 
 ## [ CONNECT WITH ME ]
-
-<div align="center">
 
 <a href="https://linkedin.com/in/ange-nombre-5846a4335" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nombreaange@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
