@@ -19,7 +19,7 @@
       <pre style="text-align: left;">
 <font color="#22D3EE">┌──(blackdry13579@kali)-[<font color="#ffffff">~</font>]</font>
 <font color="#22D3EE">└─$</font> <font color="#58a6ff">whoami --verbose</font>
-<font color="#22D3EE">
+<font color="#0985aeff">
   _   _  _  ___  ___     _  _  ___  __  __ ___  ___  ___ 
  /_\ | \| |/ _ \| __|   | \| |/ _ \|  \/  | _ )| _ \| __|
 / _ \| .` | \_  | _|    | .` | (_) | |\/| | _ )|   /| _| 
