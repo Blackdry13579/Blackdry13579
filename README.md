@@ -13,9 +13,9 @@
 <font color="blue">__________________________________________________________________________________________________</font>
 </p>
 
-<table align="center" width="850" style="border-collapse: collapse; border: none;">
+<table align="center" width="800" style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding-top: 10px; padding-bottom: 10px;">
       <pre style="text-align: left;">
 <font color="#22D3EE">┌──(blackdry13579@kali)-[<font color="#ffffff">~</font>]</font>
 <font color="#22D3EE">└─$</font> <font color="#58a6ff">whoami --verbose</font>
