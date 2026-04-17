@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Modern Header Banner -->
-<img src="https://i.pinimg.com/1200x/09/12/d9/0912d98db2ba9f5013cf9e01ea0f203e.jpg" width="800" height="300" alt="Profile Banner" />
+<img src="https://i.pinimg.com/1200x/09/12/d9/0912d98db2ba9f5013cf9e01ea0f203e.jpg" width="900" height="300" alt="Profile Banner" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="900" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="vertical-align: top;">
       <pre style="background-color: #0d1117; border: 1px solid #22d3ee; border-radius: 0px; padding: 25px; margin: 0 auto; box-shadow: 0 4px 15px rgba(34, 211, 238, 0.15); text-align: left;">
